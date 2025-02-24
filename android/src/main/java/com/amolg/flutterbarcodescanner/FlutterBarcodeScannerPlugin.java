@@ -195,7 +195,6 @@ public class FlutterBarcodeScannerPlugin implements FlutterPlugin, MethodCallHan
         @Override
         public void onActivitySaveInstanceState(Activity activity, Bundle outState) {
 
-::contentReference[oaicite:0]{index=0}
  
         }
 
